@@ -2,15 +2,41 @@
     text-align: center;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    color: azure
 }
- .background {
-    width: 100%;
-    height: 100%;
-    background-color: aqua;
- }
+
 .videocardButton {
-    width: 15px;
-    height: 15px;
-    background-color: orange;
+    width: 43%;
+    height: 36%;
+    background-color:#15232e;
+    top: 12%;
+    left: 4.5%;
+    position: absolute;
+}
+
+.cpuButton {
+    width: 43%;
+    height: 36%;
+    background-color:#15232e;
+    top: 12%;
+    right: 4.5%;
+    position: absolute;
+}
+
+.motherButton {
+    width: 43%;
+    height: 36%;
+    background-color:#15232e;
+    top: 54%;
+    left: 4.5%;
+    position: absolute;
+}
+
+.ramButton {
+    width: 43%;
+    height: 36%;
+    background-color:#15232e;
+    top: 54%;
+    right: 4.5%;
+    position: absolute;
 }
