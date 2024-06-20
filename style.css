@@ -47,16 +47,7 @@
     position: absolute;
     text-align: center;
 }
-#backButton {
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-}
 
-#backButton:hover {
-    background-color: #0056b3;
+.backButton{
+    text-align: left;
 }
