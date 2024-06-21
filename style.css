@@ -50,7 +50,7 @@
 
 .backArrow{
     text-align: left;
-    top: 5px;
+    top: -20px;
 }
 
 .videocardParagraph {
@@ -60,5 +60,5 @@
     padding-left: 40px;
     padding-right: 500px;
     font-family: monospace;
-    line-height: 25px;
+    line-height: 30px;
 }
