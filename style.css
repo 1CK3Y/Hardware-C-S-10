@@ -1,6 +1,6 @@
 .title {
     text-align: center;
-    font-size: 44px;
+    font-size: 60px;
     font-family:monospace;
     color: azure;
     word-spacing: -15px;
@@ -50,7 +50,6 @@
 
 .backArrow{
     text-align: left;
-    top: -20px;
 }
 
 .videocardParagraph {
@@ -61,4 +60,5 @@
     padding-right: 500px;
     font-family: monospace;
     line-height: 30px;
+    padding-top: 20px;
 }
