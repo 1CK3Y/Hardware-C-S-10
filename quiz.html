@@ -6,7 +6,21 @@
     <title>Computer Hardware Quiz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style="background-color:#000000;">
+    <div class="title">
+        WHAT IS A VIDEOCARD?
+        </div>
+    <a href="index.html">
+        <div class="backButton"> 
+        <img src="icons/backArrow.png" width="3%">
+        </div>
+        </a>
+    <script>
+        // JavaScript to go back to the previous page
+        document.getElementById('backButton').addEventListener('click', function() {
+            window.history.back();
+        });
+    </script>
     <div class="quiz-container">
         <h1>Computer Hardware Quiz</h1>
         <div id="quiz"></div>
