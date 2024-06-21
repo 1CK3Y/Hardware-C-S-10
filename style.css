@@ -50,11 +50,13 @@
 
 .backArrow{
     text-align: left;
-    
+    top: 5px;
 }
 
 .videocardParagraph {
     text-align: left;
     font-size: 20px;
     color:azure;
+    padding-left: 40px;
+    padding-right: 500px;
 }
