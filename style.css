@@ -65,6 +65,6 @@
 
 .imagePosition {
     position: absolute;
-    padding-right: 100px;
+    right: 100px;
     top: 200px; 
 }
