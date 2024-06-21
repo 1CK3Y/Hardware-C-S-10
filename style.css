@@ -15,6 +15,7 @@
     left: 4.5%;
     position: absolute;
     text-align: center;
+    z-index: -1;
 }
 
 .cpuButton {
@@ -67,4 +68,48 @@
     position: absolute;
     right: 10px;
     top: 200px; 
+}
+
+.videoTitle {
+    position: relative;
+    font-family: monospace;
+    top: -10%;
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+    text-align: center;
+    z-index: 1;
+}
+
+.cpuTitle {
+    position: relative;
+    font-family: monospace;
+    top: -2%;
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+    text-align: center;
+    z-index: 1;
+}
+
+.ramTitle {
+    position: relative;
+    font-family: monospace;
+    top: -5%;
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+    text-align: center;
+    z-index: 1;
+}
+
+.motherboardTitle {
+    position: relative;
+    font-family: monospace;
+    top: 1%;
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+    text-align: center;
+    z-index: 1;
 }
