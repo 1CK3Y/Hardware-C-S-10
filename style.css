@@ -181,3 +181,12 @@ button:hover {
 .answers input[type="radio"] {
     margin-right: 10px;
 }
+
+.quizButton {
+    font-family: monospace;
+    color: azure;
+    font-size: 30px;
+    position: absolute;
+    left: 90%;
+    top: 3%;
+}
